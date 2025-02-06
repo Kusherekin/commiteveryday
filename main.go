@@ -14,4 +14,5 @@ func main() {
 	fmt.Println("9 - 03.02.2025")
 	fmt.Println("10 - 04.02.2025")
 	fmt.Println("11 - 05.02.2025")
+	fmt.Println("12 - 06.02.2025")
 }
